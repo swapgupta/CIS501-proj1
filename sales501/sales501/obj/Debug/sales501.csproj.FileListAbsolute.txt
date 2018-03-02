@@ -1,0 +1,6 @@
+C:\Users\sgupta02\Documents\sales501\sales501\bin\Debug\sales501.exe.config
+C:\Users\sgupta02\Documents\sales501\sales501\bin\Debug\sales501.exe
+C:\Users\sgupta02\Documents\sales501\sales501\bin\Debug\sales501.pdb
+C:\Users\sgupta02\Documents\sales501\sales501\obj\Debug\sales501.csprojResolveAssemblyReference.cache
+C:\Users\sgupta02\Documents\sales501\sales501\obj\Debug\sales501.exe
+C:\Users\sgupta02\Documents\sales501\sales501\obj\Debug\sales501.pdb
